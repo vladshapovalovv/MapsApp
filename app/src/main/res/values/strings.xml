@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MapsApp</string>
+    <string name="toolbar_map">Карта</string>
+    <string name="save_coordinates">Сохранить координаты</string>
+    <string name="dots_list">Список точек</string>
+    <string name="coordinates_text">%1$s, %2$s</string>
+    <string name="point_with_id">Точка %1$s</string>
+    <string name="dots_list_empty">Список точек пуст</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
+    <string name="coordinates">Координаты</string>
+    <string name="save">Сохранить</string>
+    <string name="field_empty">Поле не должно быть пустым</string>
+    <string name="new_point_received">Новая точка</string>
+    <string name="tcp_running_background">TCP Ресивер работает в фоновом режиме</string>
+    <string name="a_new_point_with_coordinates_has_been_added">Точка с координатами: %1$s, %2$s была успешно получена и добавлена на карту.</string>
+</resources>
